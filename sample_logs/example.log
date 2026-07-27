@@ -1,0 +1,17 @@
+2024-05-12 08:00:01 INFO Application started
+2024-05-12 08:00:02 INFO Loaded configuration from config.yaml
+2024-05-12 08:01:10 WARNING Disk usage above 80 percent
+2024-05-12 08:02:15 ERROR Connection refused by database host
+2024-05-12 08:02:16 INFO Retrying database connection
+2024-05-12 08:02:20 ERROR Connection refused by database host
+2024-05-12 08:03:01 WARNING Cache miss rate is high
+2024-05-12 08:03:45 ERROR Timeout waiting for upstream service
+2024-05-12 08:04:10 INFO Background worker idle
+2024-05-12 08:05:00 ERROR Connection refused by database host
+2024-05-12 08:05:30 INFO Request completed successfully
+
+This line has no level and should be ignored.
+
+2024-05-12 08:06:00 EROR mistyped level should be ignored
+2024-05-12 08:06:10 INFO
+2024-05-12 08:06:20 ERROR -
